@@ -69,7 +69,7 @@ An analysis of delivery performance across different postal zones. The objective
 ## Tools Used
 
 *   **Programming Language:** Python
-*   **Libraries:** pandas, numpy, scikit-learn, scipy, plotly, matplotlib, seaborn
+*   **Libraries:** pandas, numpy, scikit-learn, scipy, plotly
 *   **Techniques:** Data Analysis, Data Visualization, Clustering (K-Means), Dimensionality Reduction (PCA), Feature Engineering, Statistical Testing (implicitly via analysis)
 *   **Statistical Methods:** Z-score standardization, Ranking, Composite Scoring
 
